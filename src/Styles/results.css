@@ -1,0 +1,12 @@
+.table-cont{
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.legend-cont{
+}
+
+.legendval{
+    display: flex;
+    justify-content: center;
+}

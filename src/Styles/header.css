@@ -1,0 +1,30 @@
+.header-cont{
+    padding-left: 30vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    background-color: #2A4D69;
+}
+
+.search-bar-cont{
+    display: flex;
+}
+
+.icon-cont{
+    padding-top: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    border-radius: 2rem;
+    cursor: pointer;
+    background-color: #E7EFF6;
+}
+
+.search{
+    width: 40vw;
+    background-color: #E7EFF6;
+    margin-right: 1vw;
+    border-radius: 3em;
+    padding-left: 1vw;
+    padding-top: 1vh;
+    padding-bottom: 0vh;
+}
+

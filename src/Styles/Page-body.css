@@ -1,0 +1,27 @@
+.body-cont{
+    padding-top: 4vh;
+}
+
+.toggle-cont{
+    display: flex;
+    justify-content: center;
+    /* border: solid 1px #2A4D69; */
+    /* padding-left: 40vw; */
+}
+
+.t-left{
+    padding-top: 1vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    border: solid 1px black;
+    cursor: pointer;
+}
+
+.t-right{
+    margin-left: 1vw;
+    padding-top: 1vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    border: solid 1px black;
+    cursor: pointer;
+}
